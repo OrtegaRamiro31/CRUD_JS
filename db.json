@@ -9,6 +9,16 @@
       "nombre": "Juan",
       "email": "juanito12@gmail.com",
       "id": "4327752d-745c-4903-84ee-10f21f617624"
+    },
+    {
+      "nombre": "Ramiro",
+      "email": "Ramiro@alura.com",
+      "id": "2215564b-cfe6-452d-8799-6ae716f5e7ef"
+    },
+    {
+      "nombre": "Carlos",
+      "email": "Carlos@alura.com",
+      "id": "756bc31b-3c55-4387-9173-b2e1f16e01ab"
     }
   ]
 }

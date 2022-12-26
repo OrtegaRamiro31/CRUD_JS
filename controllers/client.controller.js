@@ -46,5 +46,5 @@ const crearNuevaLinea = (nombre, email, id) => {
       table.appendChild(nuevaLinea);
     });
   })
-  .catch((error) => alert("Ocurrió un error"));
+  .catch((error) => alert("Ocurrió un error")); 
 
